@@ -1,0 +1,5 @@
+{
+  "name": "Aiken Transpiler IDE",
+  "description": "A high-performance workspace for transpiling TypeScript and Python code into Aiken smart contracts for the Cardano blockchain.",
+  "requestFramePermissions": []
+}
